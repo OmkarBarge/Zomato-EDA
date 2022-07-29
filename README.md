@@ -1,7 +1,7 @@
 # Zomato-EDA
 Exploratory Data Analysis
 In this Zomato Dataset:
-    1.Merge the column of Country form Country-Code Excel File.
+    1.Merge the column of Country form Country-Code Excel File.<br>
     2.Which Country has Higher Transaction in Zomato.
     3.Top 3 Countries in Transaction.
     4.Rating of Zomato
